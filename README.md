@@ -20,7 +20,7 @@ https://github.com/vishalsgithub/face-liveness
 Or add it in `Package.swift`:
 
 ```swift
-.package(url: "https://github.com/vishalsgithub/face-liveness", from: "1.0.0")
+.package(url: "https://github.com/vishalsgithub/face-liveness", from: "1.0.1")
 ```
 
 Then add `.product(name: "FaceLiveness", package: "face-liveness")` to your target's dependencies.
